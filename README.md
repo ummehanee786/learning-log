@@ -1,3 +1,3 @@
 # learning-log
-this is my second git Repository.
+This is my second git Repository.
 Author-Umme hanee
